@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/resources/views/auth/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/register.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/master.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/infos.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/projectCreate.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/projectEdit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/projectsPartials/_form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/showProjects.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/showTask.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/taskCreate.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/taskEdit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/tasksPartials/_form.blade.php" charset="UTF-8" />
+  </component>
+</project>
